@@ -22,4 +22,4 @@ Data are imported from multiple ascii files, where each file contains the FRET e
 
 ### Data export
 
-Data can be exported in servthe file format see 'example' folder for that. from multiple ascii files, where each file corresponds to the FRET efficiency histogram can be imported via the bobafret format. 
+The main figure containing the fit result can be exported via File -> Export Graph (Ctrl+E). Under the menu point 'View' detailed information about the individual histograms, the overall confidence interval and the population fractions can be exported in separated figures. Beside that, fitting results can be saved as mat-file using the third button (feather).
