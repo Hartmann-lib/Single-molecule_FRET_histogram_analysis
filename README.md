@@ -18,4 +18,4 @@ In the attached graphical user interface (FitXGauss), fractions of FRET populati
 
 ## Data import
 
-Data can be imported via the bobafret format. 
+Data can be imported via the file format see 'example' folder for that. from multiple ascii files, where each file corresponds to the FRET efficiency histogram can be imported via the bobafret format. 
