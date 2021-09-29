@@ -2,7 +2,7 @@
 
 One widely used method of single-molecule FRET spectroscopy is the acquisition of intensity time traces from immobilized molecules using TIRF microscopy. This widefield technique allows a quick recording of hundreds to thousands of time traces in parallel with a time resolution of a few milliseconds. In such experiments, it is common to collect FRET efficiency histograms using all recorded time points of selected regions. This can lead to a relatively fast accumulation of smooth distributions. However, in the case where the time average of the system has not quite reached the ensemble average, molecules with long time traces are prone to over representation. This in turn can lead to wrong conclusions. 
 
-###### Effect of molecule weighting on the FRET efficiency histograms:
+## Effect of molecule weighting on the FRET efficiency histograms:
 
 ![Figure_1_FitXGauss](https://user-images.githubusercontent.com/58071484/135234365-af626e6a-85c0-4bc9-979d-4bf981e35b55.png)
 
