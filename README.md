@@ -12,6 +12,15 @@ In the attached graphical user interface (FitXGauss), fractions of FRET populati
 
 ![Figure_2_FitXGauss](https://user-images.githubusercontent.com/58071484/135234611-f09c2dde-92e2-4bd2-9f6e-5ab6ff4729da.png)
 
+### Quick start
+
+- Load histogram data: File -> Load Histograms (Ctrl+L) -> select multiple histogram files (see examples)
+- Choose raw or weighted data -> Check box above histogram
+- Select number of populations (up to 5 Gaussian distributions)
+- Click target button and select peak positions (peak point) as initial guesses for the least-square fitting
+- Choose number of bootstrapping iteratios (Iterations <= Samples)
+- Click on Gauß to perform fit
+
 ### Data import
 
 Data are imported from multiple ascii files, where each file contains the FRET efficiency histogram of a single molecule. The format within the files should contain two columns: the edges of the FRET efficiency histogram and the counts per bin, both separated by a delimiter. For details see 'example' folder.
