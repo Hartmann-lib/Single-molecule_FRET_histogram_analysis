@@ -15,3 +15,7 @@ In the attached graphical user interface (FitXGauss), fractions of FRET populati
 ## Provided representations:
 
 ![Figure_3_FitXGauss](https://user-images.githubusercontent.com/58071484/135234646-ef5d0198-15ac-408a-862b-432869a4b12c.png)
+
+## Data import
+
+Data can be imported via the bobafret format. 
