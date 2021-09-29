@@ -6,4 +6,7 @@ One widely used method of single-molecule FRET spectroscopy is the acquisition o
 
 In the attached graphical user interface (FitXGauss), fractions of FRET populations can be quantified by up to five Gaussian distributions. To this end, histogram contributions of individual molecules are weighted with respect to their time trace length. Boot strapping is performed to evaluate the confidence interval of each derived FRET population. This approach presents a more robust way of FRET efficiency histogram analysis.
 
+![Figure_2_FitXGauss](https://user-images.githubusercontent.com/58071484/135234611-f09c2dde-92e2-4bd2-9f6e-5ab6ff4729da.png)
 
+
+![Figure_3_FitXGauss](https://user-images.githubusercontent.com/58071484/135234646-ef5d0198-15ac-408a-862b-432869a4b12c.png)
