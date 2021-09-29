@@ -12,14 +12,12 @@ In the attached graphical user interface (FitXGauss), fractions of FRET populati
 
 ![Figure_2_FitXGauss](https://user-images.githubusercontent.com/58071484/135234611-f09c2dde-92e2-4bd2-9f6e-5ab6ff4729da.png)
 
-### Provided representations:
-
-![Figure_3_FitXGauss](https://user-images.githubusercontent.com/58071484/135234646-ef5d0198-15ac-408a-862b-432869a4b12c.png)
-
 ### Data import
 
 Data are imported from multiple ascii files, where each file contains the FRET efficiency histogram of a single molecule. The format within the files should contain two columns: the edges of the FRET efficiency histogram and the counts per bin, both separated by a delimiter. For details see 'example' folder.
 
 ### Data export
 
-The main figure containing the fit result can be exported via File -> Export Graph (Ctrl+E). Under the menu point 'View' detailed information about the individual histograms, the overall confidence interval and the population fractions can be exported in separated figures. Beside that, fitting results can be saved as mat-file using the third button (feather).
+The main figure containing the fit result can be exported via File -> Export Graph (Ctrl+E). Under the menu point 'View' detailed information about the individual histograms, the overall confidence interval and the population fractions can be exported in separated figures (see below). Beside that, fitting results can be saved as mat-file using the third button (feather).
+
+![Figure_3_FitXGauss](https://user-images.githubusercontent.com/58071484/135234646-ef5d0198-15ac-408a-862b-432869a4b12c.png)
